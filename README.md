@@ -2,7 +2,8 @@
 #
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Ye-Yint-Nyo-Hmine)](https://git.io/streak-stats)
 # 
-https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=darkhub
+[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=darkhub)](https://github.com/Ye-Yint-Nyo-Hmine/github-profile-trophy)
+
 #
 ![Richard's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ye-Yint-Nyo-Hmine)
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id&left_color=green&right_color=red)
