@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=50&duration=4997&color=25FF00&lines=Welcome+Nerds!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=70&duration=4997&color=25FF00&width=600&height=100&lines=Welcome+Nerds!)](https://git.io/typing-svg)
 #
 ![Alt Text](https://media.giphy.com/media/MC6eSuC3yypCU/giphy.gif)
 # 
