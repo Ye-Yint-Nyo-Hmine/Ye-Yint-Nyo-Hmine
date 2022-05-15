@@ -1,2 +1,3 @@
-![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id&left_color=green&right_color=red)
+![Alt Text](https://i.gifer.com/fxVE.gif)
 ![Richard's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ye-Yint-Nyo-Hmine)
+![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id&left_color=green&right_color=red)
