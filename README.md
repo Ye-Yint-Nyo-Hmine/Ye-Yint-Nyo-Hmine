@@ -1,2 +1,2 @@
-<iframe src="https://gifer.com/embed/fxVE" width=480 height=480.000 frameBorder="0" allowFullScreen></iframe><p><a href="https://gifer.com">via GIFER</a></p>
+![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id&left_color=green&right_color=red)
 ![Richard's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ye-Yint-Nyo-Hmine)
