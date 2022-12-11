@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=70&duration=4997&color=25FF00&width=600&height=100&lines=Welcome+Nerds!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=70&duration=4997&color=25FF00&width=600&height=100&lines=|/-\)](https://git.io/typing-svg)
 #
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Ye-Yint-Nyo-Hmine&theme=dark)](https://git.io/streak-stats)
 # 
