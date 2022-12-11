@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=35&duration=4997&color=25FF00&width=600&height=100&lines=import zen)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&duration=1500&color=03F700&background=24242400&multiline=true&width=435&height=300&lines=C%3A%2FUsers%2FUNKNOWN%3E+arp+-a;Interface%3A+192.**.**.**+-+0x3;++Internet+Address+++%7C++Physical+Address+++%7C++Type;%7C+192.**.**.**+++%7C+f9-**-**-**-**-**+%7C+dynamic;%7C+1**.**.**.**+%7C+ff-**-**-**-**-**+%7C+dynamic;%7C+255.**.**.**+%7C+01-**-**-**-**-**+%7C+static;%7C+255.**.**.**+%7C+04-**-**-**-**-**+%7C+static;%7C+224.**.**.**+%7C+ff-**-**-**-**-**+%7C+static;%7C+214.**.**.**+%7C+a7-**-**-**-**-**+%7C+static)](https://git.io/typing-svg)
 #
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Ye-Yint-Nyo-Hmine&theme=dark)](https://git.io/streak-stats)
 # 
