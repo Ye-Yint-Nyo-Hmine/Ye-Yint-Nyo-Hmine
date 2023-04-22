@@ -1,12 +1,13 @@
 # Hello World!
 
-*👋Hello!, My name is Richard, and I focus on deep learning, and algorithms but sometimes games using python*
+***👋Hello!, My name is Richard, and I focus on deep learning, and algorithms but sometimes games using python***
 <br>
-*📌Currently working on Deep Reinforcement Learning (Q-functions)*
+***📌Currently working on Deep Reinforcement Learning (Q-functions)***
 <br>
-*🔗If you want to contribute to my projects, free feel to contact me*
+***🔗If you want to contribute to my projects, free feel to contact me***
 <br>
-Programming Languages I use:
+<br>
+***Programming Languages I use:***
 <br>
 <img src="https://i.giphy.com/media/LMt9638dO8dftAjtco/200.webp" width="100">
 <br>
