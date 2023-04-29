@@ -13,7 +13,7 @@ User = {
   "age": 14,
   "hobby": "art",
   "passion": {"programming": "python", "science": "theoretical physics"},
-  "strong_suit": {"math": "everything?"},
+  "strong_suit": "math",
   "created_at": "2021-04-28T23:44:33Z",
   "id": 83378804,
   "type": "User",
