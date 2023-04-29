@@ -6,6 +6,21 @@
 <br>
 ***🔗If you want to contribute to my projects, free feel to contact me***
 <br>
+```
+User = {
+  "name": "Ye Yint Nyo Hmine",
+  "nick_name": "Richard",
+  "age": 14,
+  "hobby": "art",
+  "passion": {"programming": "python", "science": "theoretical physics"},
+  "strong_suit": {"math": "everything?"},
+  "created_at": "2021-04-28T23:44:33Z",
+  "id": 83378804,
+  "type": "User",
+  "bio": "Star dweller, terminal user, pythoneer,  tinkerer, artist\r\n",
+  ""
+}
+```
 <br>
 ***Programming Languages I use:***
 <br>
