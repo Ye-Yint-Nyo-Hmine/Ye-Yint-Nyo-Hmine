@@ -10,7 +10,7 @@ User = {
 }
 ```
 <br>
-***Programming Languages I am adequate in:***
+Programming Languages I am adequate in:
 <br>
 <img src="https://i.giphy.com/media/LMt9638dO8dftAjtco/200.webp" width="100">
 <br>
