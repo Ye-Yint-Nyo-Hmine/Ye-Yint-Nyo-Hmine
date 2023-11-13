@@ -1,7 +1,7 @@
 # Hello World!
 
 ***👋Hello!, My name is Ye Yint, and I focus on algorithms, neural nets and sometimes games using Python***
-***🔗If you want to contribute to my projects, free feel to contact me***
+***🔗If you want to contribute to my projects, feel free to contact me***
 <br>
 ```
 User = {
