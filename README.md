@@ -20,12 +20,12 @@
     ### **Skills**
     
     1. **Languages**
-      - Python -> *Native*
-      - C#
-      - Java -> only a few experiences
+        - Python -> *Native*
+        - C#
+        - Java -> only a few experiences
     
     2. **Certificates**
-      - Presented in my [LinkedIn](https://www.linkedin.com/in/ye-yint-hmine-75ab24265/ "LinkedIn")
+        - Presented in my [LinkedIn](https://www.linkedin.com/in/ye-yint-hmine-75ab24265/ "LinkedIn")
       
     ### **Experiences**
     - Worked with a team of 40+ students to develop a robot for FRC (2022-Present)
