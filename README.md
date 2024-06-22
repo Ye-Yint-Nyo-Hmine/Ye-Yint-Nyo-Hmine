@@ -15,11 +15,11 @@
   <details>
     <summary><b>Skills & Experiences</b></summary>
     
-    <br>
+  <br>
     
-    ### **Skills**
+  ### **Skills**
     
-    - **Languages**
+  - **Languages**
       - Python -> *Native*
       - C#
       - Java -> only a few experiences
@@ -33,7 +33,6 @@
     - Developed a fully autonomous Distraction Detection system aimed at reducing vehicle fatality rates caused by distraction (2023)
     - Developed a generative virtual assistant from scratch in Python; ability to handle tasks for productivity (2024)
     - and others ...
-    
-  </details>
-  asdfasd
+
+</details>
 </details>
