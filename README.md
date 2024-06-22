@@ -14,7 +14,6 @@
   
   <details>
     <summary><b><h2>Skills & Experiences</h2></b></summary>
-    
     ## **Skills**
     
     1. Languages
