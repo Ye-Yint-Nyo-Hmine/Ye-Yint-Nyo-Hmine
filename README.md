@@ -25,12 +25,12 @@
     ### **Certificates**
     * *Presented in my* ***[LinkedIn](https://www.linkedin.com/in/ye-yint-hmine-75ab24265/ "LinkedIn")***
       
-    ### **Experiences**
-    * *Worked with a team of* ***40+ students*** *to develop a robot for* ***FRC*** *(2022-Present)*
-    * *Worked with student researchers from around the world to* ***research particle hydrodynamics using CS*** *(2023)*
-    * *Developed a* ***fully autonomous Distraction Detection system*** *aimed at* ***reducing vehicle fatality rates caused by distraction*** *(2023)*
-    * *Developed a* ***generative virtual assistant*** *from scratch in Python; ability to handle tasks for productivity (2024)*
-    * *and* ***others ...***
+  ### **Experiences**
+  * *Worked with a team of* ***40+ students*** *to develop a robot for* ***FRC*** *(2022-Present)*
+  * *Worked with student researchers from around the world to* ***research particle hydrodynamics using CS*** *(2023)*
+  * *Developed a* ***fully autonomous Distraction Detection system*** *aimed at* ***reducing vehicle fatality rates caused by distraction*** *(2023)*
+  * *Developed a* ***generative virtual assistant*** *from scratch in Python; ability to handle tasks for productivity (2024)*
+  * *and* ***others ...***
 
 </details>
 </details>
