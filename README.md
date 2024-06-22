@@ -13,9 +13,9 @@
   I love to draw, but I am keen on exploring new things outside my boundaries. 
   
   <details>
-    <summary><b><h1>Skills & Experiences</h1></b></summary>
+    <summary><b><h2>Skills & Experiences</h2></b></summary>
     
-    # **Skills**
+    ## **Skills**
     
     1. Languages
       * Python -> *Native*
