@@ -5,16 +5,15 @@
   <summary>Read more ...</summary>
   </br>
   
-  # What do I do here?
+  ## **What do I do here?**
   I mostly work on my projects locally, and publish some of my work here. I mainly use GitHub for collaborating
   and exploring new projects to learn/contribute to.
   
-  ## Outside of programming
+  ## **Outside of programming**
   I love to draw, but I am keen on exploring new things outside my boundaries. 
   
   <details>
-    
-    <summary># **Skills & Experiences**</summary>
+    <summary><b><h1>Skills & Experiences</h1></b></summary>
     
     # **Skills**
     
